@@ -24,7 +24,7 @@ The Exploratory Data Analysis (EDA) phase uncovers patterns, correlations, and d
 - Provide meaningful insights to guide risk prediction models
 
 <h2><a class="file" id="project-structure"></a>📂 Project Structure</h2>
-'''
+```
 📂 root
 │── Data/
 │   ├── Delinquency_dataset.xlsx
@@ -33,7 +33,7 @@ The Exploratory Data Analysis (EDA) phase uncovers patterns, correlations, and d
 │   └── Delinquency_analysis.ipynb
 │ 
 │── EDA_SummaryReport.docx
-'''
+```
 
 <h2><a class="file" id="eda-tasks-completed"></a>🧹 EDA Tasks Completed</h2>
 
@@ -53,16 +53,16 @@ The Exploratory Data Analysis (EDA) phase uncovers patterns, correlations, and d
 
 <h2><a class="file" id="technologies-used"></a>🛠 Technologies Used</h2>
 
--Python
--Pandas, NumPy
--Scikit-learn (ML-based imputation & analysis)
--Matplotlib / Seaborn (visualizations)
--Jupyter Notebooks
+- Python
+- Pandas, NumPy
+- Scikit-learn (ML-based imputation & analysis)
+- Matplotlib / Seaborn (visualizations)
+- Jupyter Notebooks
 
 
 <h2><a class="file" id="next-steps"></a>🚧 Next Steps</h2>
 
--Feature engineering
--Predictive modeling (classification)
--Model validation and performance evaluation
--Bias, fairness, and ethical assessment
+- Feature engineering
+- Predictive modeling (classification)
+- Model validation and performance evaluation
+- Bias, fairness, and ethical assessment
