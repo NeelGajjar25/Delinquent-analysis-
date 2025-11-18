@@ -24,8 +24,9 @@ The Exploratory Data Analysis (EDA) phase uncovers patterns, correlations, and d
 - Provide meaningful insights to guide risk prediction models
 
 <h2><a class="file" id="project-structure"></a>📂 Project Structure</h2>
-```text
-📂 root
+
+```
+root
 ├── Data/
 │ ├── Delinquency_dataset.xlsx
 │ └── Notebook/
