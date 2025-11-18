@@ -1,9 +1,9 @@
-## 📚 Table of Contents
+## Table of Contents
 - [Project Overview](#-project-overview)
 - [Objectives](#-objectives)
 - [Repository Structure](#-repository-structure)
 - [EDA Tasks Completed](#-eda-tasks-completed)
-- [Key Insights](#-key-insights-high-level)
+- [Key Insights (High-Level)](#-key-insights-high-level)
 - [Technologies Used](#-technologies-used)
 - [File Included](#-file-included)
 - [Next Steps](#-next-steps)
