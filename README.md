@@ -10,7 +10,7 @@
 - <a href="#author">Author</a>
 
 
-Project Overview
+<h2><a class="file" id="project-overview"></a>Project Overview<h2>
 
 This project focuses on analyzing customer financial behavior to identify individuals at high risk of becoming delinquent.
 The Exploratory Data Analysis (EDA) phase uncovers patterns, correlations, and data quality issues to support future predictive modeling.
