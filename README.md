@@ -26,13 +26,13 @@ The Exploratory Data Analysis (EDA) phase uncovers patterns, correlations, and d
 <h2><a class="file" id="project-structure"></a>📂 Project Structure</h2>
 
 ```
-root
+Delinquency Analysis
 ├── Data/
-│ ├── Delinquency_dataset.xlsx
-│ └── Notebook/
+│   └── Delinquency_dataset.xlsx
+├── Notebook/
 │     └── Delinquency_analysis.ipynb
 └── EDA_SummaryReport.docx
-
+```
 <h2><a class="file" id="eda-tasks-completed"></a>🧹 EDA Tasks Completed</h2>
 
 - ✔ Dataset overview and variable types
