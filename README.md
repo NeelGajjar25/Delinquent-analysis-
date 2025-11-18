@@ -1,13 +1,13 @@
 ## Table of Contents
-- [Project Overview](#-project-overview)
-- [Objectives](#-objectives)
-- [Repository Structure](#-repository-structure)
-- [EDA Tasks Completed](#-eda-tasks-completed)
-- [Key Insights (High-Level)](#-key-insights-high-level)
-- [Technologies Used](#-technologies-used)
-- [File Included](#-file-included)
-- [Next Steps](#-next-steps)
-- [Author](#-author)
+<a href="#-project-overview">Project Overview</a><br>
+<a href="#-objectives">Objectives</a><br>
+<a href="#-repository-structure">Repository Structure</a><br>
+<a href="#-eda-tasks-completed">EDA Tasks Completed</a><br>
+<a href="#-key-insights-high-level">Key Insights (High-Level)</a><br>
+<a href="#-technologies-used">Technologies Used</a><br>
+<a href="#-file-included">File Included</a><br>
+<a href="#-next-steps">Next Steps</a><br>
+<a href="#-author">Author</a>
 
 
 Project Overview
